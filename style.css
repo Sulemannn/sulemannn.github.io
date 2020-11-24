@@ -1,0 +1,129 @@
+body {
+    font-family: arial;
+    margin: 0px;
+}
+
+nav {
+    height: 70px;
+    display: flex;
+}
+
+.secondary-block {
+    color: #041939;
+    background-color: #40A497;
+}
+
+a {
+color: white;
+}
+
+nav h2 {
+    margin: 0px;
+    padding: 20px 0px 20px 15px;
+}
+
+nav ul {
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+}
+
+nav li {
+    padding-left: 15px; 
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  header h1 {
+    color: #041939;
+  }
+  
+  header h2 {
+    color:#40A497;
+  }
+
+
+  
+  header img {
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 4px 4px 6px rgb(170, 170, 170);
+  }
+
+  section {
+    padding: 40px;
+  }
+
+#profile h3 {
+  text-align: center;
+  color: #041939;
+}
+
+#xp h3 {
+  text-align: center;
+}
+
+  #xp ul {
+      margin: 0px;
+      padding: 0px;
+      list-style: none;
+  }
+
+  #xp li {
+      margin-bottom: 10px;
+  }
+
+  #xp aside {
+      float: right;
+  }
+
+#education h3 {
+  text-align: center;
+}
+
+  #education ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #education li {
+    margin-bottom: 10px;
+  }
+  
+  #education aside {
+    float: right;
+  }
+
+
+  h3 {
+    text-align: center;
+    color: #041939;
+  }
+
+  footer {
+    padding: 40px;
+  }
+
+  footer ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    color: #041939;
+  }
+
+  .links {
+    margin-bottom: 25px;
+    display: inline-block;
+    width: 390px;
+  }
+    
